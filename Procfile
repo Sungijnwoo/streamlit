@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run tiny_streamlit_webrtc/__init__.py
